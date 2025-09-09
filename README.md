@@ -70,5 +70,6 @@ O foco está na criação de um **checklist de testes funcionais**, identificaç
 📱 +55 11 99336-5375  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniela-silva-b1a544275)  
 💻 [GitHub](https://github.com/danielasilva3251)  
-📂 [Portfólio de Testes](https://drive.google.com/your-portfolio-link](https://docs.google.com/spreadsheets/d/1Ys0immQHfwqP5mk8gGLYtr3dUvnKxva_r8BGdqmWdCI/edit?usp=sharing)
+📂 [Portfólio de Testes](https://docs.google.com/spreadsheets/d/1Ys0immQHfwqP5mk8gGLYtr3dUvnKxva_r8BGdqmWdCI/edit?usp=sharing)
+
 
